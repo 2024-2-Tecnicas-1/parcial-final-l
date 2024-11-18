@@ -1,5 +1,7 @@
 package logicaNegocio;
 
-public class Leon {
-    // TODO: Aquí va tu código
+public class Leon extends Animal {
+    String emitirSonido;
+    String obtenerDieta;
+    leon (Rugido, carnivoro, TipoHabitad.TERRESTRE);
 }

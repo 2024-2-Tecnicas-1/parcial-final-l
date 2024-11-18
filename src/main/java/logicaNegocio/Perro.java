@@ -1,5 +1,8 @@
 package logicaNegocio;
 
-public class Perro {
-    // TODO: Aquí va tu código
+public class Perro extends Animal{
+    String emitirSonido;
+    String obtenerDieta;
+    perro(ladrido, omnivoro, TipoHabitad.TERRESTRE);
 }
+    
